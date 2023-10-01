@@ -1,0 +1,16 @@
+.fa-brands{
+	line-height:40px;
+}
+.fa-chevron-left,
+.fa-chevron-right{
+	line-height:58px;
+}
+svg{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
+.service-icon{
+	position:relative;
+}
